@@ -3,4 +3,4 @@ emoji_status = dict(
   Up = "✅",
   Down = "❌",
   Maintenance = "⚠️",
-  Full: "⛔")
+  Full = "⛔")
